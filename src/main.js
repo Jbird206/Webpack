@@ -1,4 +1,4 @@
-import { pingPong } from './ping-pong';
+import { triangle } from './triangle';
 import './styles.css';
 
 $(document).ready(function() {
